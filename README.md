@@ -48,7 +48,8 @@ TensorFlow / Keras
 Streamlit
 
 Image Classification
-
+🔗 LinkedIn: https://www.linkedin.com/in/sanju-shukla-712295290
+🐙 GitHub: https://github.com/dr-Sanjiv-Ai
 Medical AI / Healthcare Analytics
 
 
