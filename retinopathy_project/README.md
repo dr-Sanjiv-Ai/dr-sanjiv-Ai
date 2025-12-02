@@ -66,5 +66,7 @@ Deep learning model + Streamlit app to detect DR severity (0–4) from retina fu
 ---
 
 # 📞 Contact  
-📧 **Email:** your-email-here  
+📧 **Email:**📞 Contact  
+
+- LinkedIn: https://www.linkedin.com/in/sanju-shukla-712295290
 💼 **GitHub:** Dr-Sanjiv-AI
