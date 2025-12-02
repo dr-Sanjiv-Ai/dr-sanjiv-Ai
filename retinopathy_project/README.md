@@ -36,3 +36,35 @@ The Streamlit app allows you to:
 ## 🚀 How to Run the Project
 
 ### 1️⃣ Install requirements
+
+
+# 👨‍⚕️ Dr. Sanjeev Shukla – AI Medical Diagnostics
+
+Welcome to my collection of **AI-powered medical diagnostic projects**.  
+I am an MBBS doctor applying Artificial Intelligence to improve healthcare.
+
+---
+
+# 🔬 **My AI Projects**
+
+## 🫁 1. Pneumonia Detection (Chest X-Ray)
+Detects pneumonia using a deep learning CNN model trained on chest X-ray images.  
+👉 **Project Folder:** [`pneumonia_project`](./pneumonia_project)
+
+---
+
+## 🩸 2. Diabetes Prediction (FBS, GRBS, HbA1c)
+Machine learning model predicting diabetes using blood glucose parameters.  
+👉 **Project Folder:** [`diabetes_project`](./diabetes_project)
+
+---
+
+## 👁️ 3. Diabetic Retinopathy Detection
+Deep learning model + Streamlit app to detect DR severity (0–4) from retina fundus images.  
+👉 **Project Folder:** [`retinopathy_project`](./retinopathy_project)
+
+---
+
+# 📞 Contact  
+📧 **Email:** your-email-here  
+💼 **GitHub:** Dr-Sanjiv-AI
